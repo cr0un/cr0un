@@ -1,16 +1,3 @@
-<h3 align="center">Hello! My name is Valeriy 👋</h3>
-
-___
-
-<div id="badges" align="center">
-<h3>🌐 Contacts</h3>
-  <a href="https://t.me/cr0un">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-</div>
-
-___
-
 <div id="badges" align="center">
 <h3>Programming language</h3>
   <a href="https://www.python.org/">
