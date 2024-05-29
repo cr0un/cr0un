@@ -1,4 +1,4 @@
-<h3 align="center">Hello! My name is Valeriy 👋 I'm Python backend developer 🐍</h3>
+<h3 align="center">Hello! My name is Valeriy 👋</h3>
 
 ___
 
